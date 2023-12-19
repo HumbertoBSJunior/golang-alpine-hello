@@ -1,1 +1,0 @@
-# golang_alpine_hello
